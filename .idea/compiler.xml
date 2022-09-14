@@ -9,8 +9,8 @@
         <module name="spring-helloworld" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="spring-helloworld" target="17" />
+    <bytecodeTargetLevel target="11">
+      <module name="spring-helloworld" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
